@@ -77,6 +77,3 @@ I'm passionate about **Gravitational Wave Physics**, **Machine Learning**, and *
 - 📧 Email: [kumar.tarun@iitgn.ac.in](mailto:kumar.tarun@iitgn.ac.in)
 
 ---
-
-> _"The most beautiful thing we can experience is the mysterious. It is the source of all true art and science."_  
-> — *Albert Einstein*
