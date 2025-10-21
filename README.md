@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="github.png" alt="Tarun Kumar" width="150" height="150" style="border-radius:50%;">
-</p>
-
 # 👋 Hi there, I'm Tarun Kumar!
 
 Welcome to my GitHub profile!  
