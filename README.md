@@ -6,7 +6,7 @@ I'm passionate about **Gravitational Wave Physics**, **Machine Learning**, and *
 ---
 
 ## 🔭 About Me
-- 🎓 **Master’s Student in Physics** at **Indian Institute of Technology Gandhinagar** (2023 – Present)
+- 🎓 **Master’s Student in Physics** at **Indian Institute of Technology Gandhinagar** (2023 – 2025)
 - 🌌 Exploring **Gravitational Waves Data Analysis** and **Template Bank Optimization**
 - 🧠 Enthusiastic about **AI/ML applications in Physics** and **Scientific Computing**
 
