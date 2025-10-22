@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="/images/github.jpg" alt="Tarun Kumar" width="200" style="border-radius: 50%;"/>
+</div>
+
 # Hi, I'm Tarun Kumar 👋
 
 I'm a physics grad student at IIT Gandhinagar working on gravitational wave detection. I spend most of my time thinking about how to make template banks more efficient and exploring ways machine learning can help us catch signals from merging black holes and neutron stars.
